@@ -10,6 +10,4 @@ Try it on https://todo-seb.herokuapp.com/
   - work list: https://todo-seb.herokuapp.com/work
   - home list: https://todo-seb.herokuapp.com/home
 
-## Tech
-* Node JS, Express
-* Deployed on Heroku
+
