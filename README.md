@@ -1,4 +1,5 @@
-# todo-app
+# To-do application
+
 A to-do app done with Node.js, Express.js with Database on Mongo Atlas
 
 Try it on https://todo-seb.herokuapp.com/
@@ -8,3 +9,7 @@ Try it on https://todo-seb.herokuapp.com/
 * to create a new list, add the name of the list in the url bar, for instance:
   - work list: https://todo-seb.herokuapp.com/work
   - home list: https://todo-seb.herokuapp.com/home
+
+## Tech
+* Node JS, Express
+* Deployed on Heroku
